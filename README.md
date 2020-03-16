@@ -19,6 +19,7 @@
       - Smart Assistant : Alexa/Google Mini for testing
      
 2.  Intelligent drowsy driver detection:
+# Approved
   - Description:  "Time is money". We often hear this in relevance with the fast paced 21st century life. This has meant
       that we use more cab/taxi services than ever before. The cab drivers end up doing longer work/drive hours to earn
       that much extra money. This ofen puts them through a lot of stress and results in a bad sleep schedule. Accidents

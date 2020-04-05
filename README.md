@@ -1,7 +1,7 @@
 # Group Nubmer : 4
 # Project Title : Sleep Stoppers
 
-# APPROVED
+# Approved
 1.  Intelligent drowsy driver detection:
   - Description:  "Time is money". We often hear this in relevance with the fast paced 21st century life. This has meant
       that we use more cab/taxi services than ever before. The cab drivers end up doing longer work/drive hours to earn
@@ -17,3 +17,16 @@
       - Open CV : This is required to stream video camera data to code.
       - Machine Learning : Python's Keras library to train the machine.
       - Mini speaker : We will require this to trigger an alarm if "drowsiness" threshold is breached.
+      
+# Project Setup
+- Pre-requisites:
+  - Python3.8
+  - pip3
+- Steps to setup environment:
+  - Clone https://github.com/SJSUSpring2020-CMPE272/Sleep-Stoppers.git repository
+  - pip3 install pipenv
+  - Navigate to the repository directory that you cloned in step1
+  - Run "pipenv install --dev"
+  - The above command should create a virtual environment with all python packages
+    installed for this project
+  - Run "python3 drowsiness_detection.py"

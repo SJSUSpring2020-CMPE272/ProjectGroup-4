@@ -8,9 +8,7 @@
       which detects the "drowsiness" level of the driver and raise an alarm if it crosses threshold.
 
 ## Abstract
-  - Target Users: This will mainly be useful for companies like Lyft, Uber, etc for providing extra security to their
-      employees(drivers) as well as their customers(passengers). At the same time, a normal person may also use this for 
-      increased safety while he/she drives.
+  - In recent years, driver drowsiness has been one of the major causes of road accidents and can lead to severe physical injuries, deaths and significant economic losses. Statistics indicate the need of a reliable driver drowsiness detection system which could alert the driver before a mishap happens. A detailed review on the measures will provide insight on the present systems, issues associated with them and the enhancements that need to be done to make a robust system. By designing a hybrid drowsiness detection system using Convolutional Neural Networks that combines non-intusive physiological measures with other measures one would accurately determine the drowsiness level of a driver. A number of road accidents might then be avoided if an alert is sent to a driver that is deemed drowsy.
       
 ## Architecture Diagram
 ![alt text](https://github.com/SJSUSpring2020-CMPE272/Sleep-Stoppers/blob/master/architecture_diag_ss.png "arch diag")

@@ -11,7 +11,7 @@
   - As of late, driver drowsiness has been one of the significant reasons for street mishaps and can prompt extreme physical wounds, deaths and noteworthy financial misfortunes. Measurements demonstrate the need of a dependable driver drowsiness discovery framework which could alarm the driver before a disaster occurs. A nitty gritty survey on the measures will give understanding on the current frameworks, issues related with them and the improvements that should be done to make a powerful framework. By structuring a cross breed drowsiness identification framework utilizing Convolutional Neural Networks that combines non-meddlesome physiological measures with different measures, one would precisely anticipate the driver drowsiness level. Various street mishaps may then be kept away from if an alarm is sent to a driver who seems to be drowsy.
       
 ## Architecture Diagram
-![alt text](https://github.com/SJSUSpring2020-CMPE272/Sleep-Stoppers/blob/master/architecture_diag_ss.png "arch diag")
+![alt text](https://github.com/SJSUSpring2020-CMPE272/Sleep-Stoppers/blob/master/Sleep%20Stoppers_Architecture "arch diag")
 
 ![alt text](https://github.com/akshay-sjsu-173/cmpe272-project/blob/master/Report%20Stuff/How-facial-recog-works.JPG "prof flow")
 ## Technology Stack

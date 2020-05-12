@@ -24,10 +24,10 @@
 ## Project Setup
   - Clone https://github.com/SJSUSpring2020-CMPE272/Sleep-Stoppers.git
   - Make sure you have the required python version by refeering to https://github.com/SJSUSpring2020-CMPE272/Sleep-Stoppers/blob/master/Pipfile
-  - If you don't have "pipenv" installed, run the following command:
+  - If you don't have "pipenv" installed, run the following command: <br>
     "pip3 install pipenv"
-  - The following commands will setup a virtual environment to run this project:
+  - The following commands will setup a virtual environment to run this project: <br>
     1.  pipenv shell
     2.  pipenv install --dev
-  - Run the following command to start the application:
+  - Run the following command to start the application: <br>
     "python drowsiness_detection.py"

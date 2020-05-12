@@ -18,6 +18,16 @@
    - Video Camera : This must be capable of capturing the driver's face.
    - Image Map : Python deep learning library to create an image map from the video/image stream
    - Open CV : This is required to stream video camera data to code.
-   - Dlib : Dectection of Facial Features
    - Machine Learning : Keras , Tensorflow
    - Mini speaker : We will require this to trigger an alarm if "drowsiness" threshold is breached.
+
+## Project Setup
+  - Clone https://github.com/SJSUSpring2020-CMPE272/Sleep-Stoppers.git
+  - Make sure you have the required python version by refeering to https://github.com/SJSUSpring2020-CMPE272/Sleep-Stoppers/blob/master/Pipfile
+  - If you don't have "pipenv" installed, run the following command:
+    "pip3 install pipenv"
+  - The following commands will setup a virtual environment to run this project:
+    1.  pipenv shell
+    2.  pipenv install --dev
+  - Run the following command to start the application:
+    "python drowsiness_detection.py"
